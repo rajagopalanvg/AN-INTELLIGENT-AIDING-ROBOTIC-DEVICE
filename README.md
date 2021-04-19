@@ -15,12 +15,8 @@ An Intelligent Robotics Device (IRD) is developed in order to support safe mobil
 4.GPS LIVE TRACKING SYSTEM
 
 **OUR IMPLEMENTATION:**
+![image](https://user-images.githubusercontent.com/79503433/115166499-2ab44b80-a0d1-11eb-98ea-1635dabbc808.png)
 
-![image](https://user-images.githubusercontent.com/79503433/115146364-d0d16880-a073-11eb-9096-be6999f2d061.png)
-![image](https://user-images.githubusercontent.com/79503433/115146375-de86ee00-a073-11eb-99d4-9bdc3ed786b7.png)
-![image](https://user-images.githubusercontent.com/79503433/115146565-a2a05880-a074-11eb-86d8-bb1186d62d50.png)
-![image](https://user-images.githubusercontent.com/79503433/115146576-ac29c080-a074-11eb-8db5-961d0fccf661.png)
-![image](https://user-images.githubusercontent.com/79503433/115146583-b8ae1900-a074-11eb-93f7-ec15e716e6c7.png)
 
 
 
