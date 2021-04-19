@@ -18,6 +18,10 @@ An Intelligent Robotics Device (IRD) is developed in order to support safe mobil
 
 ![image](https://user-images.githubusercontent.com/79503433/115166519-461f5680-a0d1-11eb-917a-a9fab2de98b7.png) ![image](https://user-images.githubusercontent.com/79503433/115166544-5c2d1700-a0d1-11eb-9d4f-6b974351e176.png)
 
+![image](https://user-images.githubusercontent.com/79503433/115166577-7ff05d00-a0d1-11eb-821d-5d9c04a02bdb.png) ![image](https://user-images.githubusercontent.com/79503433/115166597-95658700-a0d1-11eb-96ef-99fe7c7bf397.png)
+
+
+
 
 
 
