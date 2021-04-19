@@ -64,6 +64,17 @@ See Arduiniana - TinyGPS++ for more detailed information on how to use TinyGPSPl
 ![image](https://user-images.githubusercontent.com/79503433/115144960-fdce4d00-a06c-11eb-957f-8eef09a2af17.png)
 ![image](https://user-images.githubusercontent.com/79503433/115144982-1179b380-a06d-11eb-9400-d9611b5c2d90.png)
 
+**GSM library**
+
+With the Arduino GSM Shield, this library enables an Arduino board to do most of the operations you can do with a GSM phone: place and receive voice calls, send and receive SMS, and connect to the internet over a GPRS network.
+
+The GSM shield has a modem that transfers data from a serial port to the GSM network. The modem executes operations via a series of AT commands. The library abstracts low level communications between the modem and SIM card. It relies on the Software Serial library for communication between the moden and Arduino.
+
+Typically, each individual command is part of a larger series necessary to execute a particular function. The library can also receive information and return it to you when necessary.
+
+![image](https://user-images.githubusercontent.com/79503433/115167170-1e7dbd80-a0d4-11eb-9af9-99206fc83939.png) ![image](https://user-images.githubusercontent.com/79503433/115167210-4c630200-a0d4-11eb-9a89-f8bf6b7870cd.png)
+
+
 # SYSTEMS :
 
 **ULTRASONIC DETECTION SYSTEM:**
